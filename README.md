@@ -13,3 +13,5 @@ Skills: JAVA / SWIFT / C# / PHP / JAVASCRIPT / C++ / PYTHON
 
 
 ![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindulasantha&show_icons=true&theme=transparent)
+
+![GitHub metrics](https://metrics.lecoq.io/ravindulasantha) 
