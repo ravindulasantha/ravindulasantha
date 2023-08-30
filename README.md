@@ -1,15 +1,13 @@
 ### Hi there 👋, I'm Ravindu Lasantha
 
-I'm Ravindu Lasantha, a game developer and mobile application developer from Sri Lanka. With a passion for creating immersive and engaging experiences, I specialize in building games and apps for iOS and Android platforms. My expertise includes Unity, Swift, and Java, and I'm always looking for new challenges and opportunities to learn and grow as a developer. 
+I'm Ravindu Lasantha, an AI Reasearcher and Mobile Application Developer from Sri Lanka. With a passion for creating immersive and engaging experiences, I specialize in building games and apps for iOS and Android platforms. My expertise includes Unity, Swift, and Java, and I'm always looking for new challenges and opportunities to learn and grow as a developer. 
 
 Skills: JAVA / SWIFT / C# / PHP / JAVASCRIPT / C++ / PYTHON
 
-- 🔭 I’m currently working on AppsXad and Corvixen 
-- 🌱 I’m currently learning Swift for iOS & Unreal Engine 5
+- 🔭 I’m currently working SinhalaGPT Project
+- 🌱 I’m currently learning Machine Learning, AI & Flutter Framework
 
-<p align="center">
 ![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindulasantha&show_icons=true&theme=transparent)
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
