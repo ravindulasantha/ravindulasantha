@@ -19,10 +19,6 @@ Skills: JAVA / SWIFT / C# / PHP / JAVASCRIPT / C++ / PYTHON
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravindulasantha&show_icons=true&theme=merko" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulasantha&theme=merko" />
-</p>
-<p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulasantha&layout=compact&theme=dark&langs_count=6" />
 </p>
 
