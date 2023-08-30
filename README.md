@@ -18,3 +18,11 @@ Skills: JAVA / SWIFT / C# / PHP / JAVASCRIPT / C++ / PYTHON
 <a href="https://instagram.com/ravindu99lasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravindu99lasa" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravindulasantha&show_icons=true&theme=merko" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulasantha&theme=merko" />
+</p>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulasantha&layout=compact&theme=dark&langs_count=6" />
+</p>
+
