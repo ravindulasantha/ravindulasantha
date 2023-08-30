@@ -7,8 +7,9 @@ Skills: JAVA / SWIFT / C# / PHP / JAVASCRIPT / C++ / PYTHON
 - 🔭 I’m currently working on AppsXad and Corvixen 
 - 🌱 I’m currently learning Swift for iOS & Unreal Engine 5
 
+<p align="center">
 ![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindulasantha&show_icons=true&theme=transparent)
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
