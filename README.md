@@ -1,13 +1,8 @@
 ### Hi there 👋, I'm Ravindu Lasantha
 
-I'm Ravindu Lasantha, an AI Reasearcher and Mobile Application Developer from Sri Lanka. With a passion for creating immersive and engaging experiences, I specialize in building games and apps for iOS and Android platforms. My expertise includes Unity, Swift, and Java, and I'm always looking for new challenges and opportunities to learn and grow as a developer. 
+Welcome to my GitHub repository! I'm Ravindu Lasantha, founder and owner of SinhalaGPT, an AI researcher, and mobile application developer based in Sri Lanka.
 
-Skills: JAVA / SWIFT / C# / PHP / JAVASCRIPT / C++ / PYTHON
-
-- 🔭 I’m currently working SinhalaGPT Project
-- 🌱 I’m currently learning Machine Learning, AI & Flutter Framework
-
-![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindulasantha&show_icons=true&theme=transparent)
+I am passionate about leveraging artificial intelligence to develop innovative solutions and creating engaging mobile applications and games. With over 6 years of experience in the field, I have released over 20 mobile apps and 5 mobile games, each crafted with meticulous attention to detail and user experience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
